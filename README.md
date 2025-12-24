@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gokaykacan
-- 👀 I’m interested in C++ Software Development
+- 👀 I’m interested in Software Development and AI
 
 <!---
 gokaykacan/gokaykacan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
